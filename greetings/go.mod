@@ -1,3 +1,3 @@
-module github.com/semliko/go-modules/tree/master/greetings
+module github.com/semliko/go-modules
 
 go 1.16
